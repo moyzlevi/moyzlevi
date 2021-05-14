@@ -9,10 +9,7 @@
 <br>
 <br>
 ## Currently working on:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyzlevi&repo=job-incobar&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 - 🔭 I’m currently working on [Incobor](https://github.com/moyzlevi/job-incobar) project!
