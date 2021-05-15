@@ -1,5 +1,5 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
-<h1>Hi! I'm Moyses!<br> Computer Science and Medicine🧬💻🚀</h1>
+<h1 align="center">Hi! I'm Moyses!<br> Computer Science and Medicine🧬💻🚀</h1>
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 <h2 align="center">Languages<h2>
