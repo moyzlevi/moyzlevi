@@ -1,8 +1,8 @@
 ### Hi! I'm Moyses, biomedical informatics student at [UFCSPA](https://www.ufcspa.edu.br/)! 🧬💻🚀
-
+<div display="flex">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
-
+</div>
 <br>
 <br>
 <br>
