@@ -1,9 +1,9 @@
 ### Hi! I'm Moyses, biomedical informatics student at [UFCSPA](https://www.ufcspa.edu.br/)! 🧬💻🚀
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
+  <img width="20%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
+  <img width="20%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 </a>
 <br>
 <br>
