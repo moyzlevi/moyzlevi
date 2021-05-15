@@ -1,5 +1,5 @@
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
-<h1>Hi! I'm Moyses, biomedical informatics student at [UFCSPA](https://www.ufcspa.edu.br/)! 🧬💻🚀</h1>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
+<h1>Hi! I'm Moyses, biomedical informatics student at UFCSPA! 🧬💻🚀</h1>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 
 <br>
