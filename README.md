@@ -1,6 +1,5 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
 <h1 align="center"> Hi! I'm Moyses!<br> Computer Science and Medicine🧬💻🚀<h1>
-<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 <h2 align="center">Languages<h2>
@@ -18,6 +17,11 @@
  🌱 I’m currently learning Front-end(React.js) and Back-end(Node.js)
  ⚡ Fun fact: I love to read! 📚
  ```
+ <div display="flex" width="50">  
+ <a href="https://www.linkedin.com/in/moyses-pietsch-73b88b1a5/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </div>
+
 
 ## Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyzlevi&repo=job-incobar&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
