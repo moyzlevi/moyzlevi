@@ -2,6 +2,7 @@
 <h1>Hi! I'm Moyses!<br> Computer Science and Medicine 🧬💻🚀</h1>
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
+<h2>Languages<h2>
 <div display="flex" width="50">    
 <img alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
