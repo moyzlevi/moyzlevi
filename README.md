@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-## Currently working on:
+## Currently working on:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyzlevi&repo=job-incobar&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
