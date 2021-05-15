@@ -19,7 +19,7 @@
 ## Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyzlevi&repo=job-incobar&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">Frameworks/technologies<h2>
+## Frameworks/technologies
 <div display="flex" width="50">    
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -32,11 +32,12 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
+## OS
 <h2 align="center">OS<h2>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
- 
-<h2 align="center">IDE<h2>
+
+## IDE
 <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 
