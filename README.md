@@ -12,10 +12,12 @@
 </div>
 
 <br><br><br>
+<p>
  🔭 I’m currently working on [Incobor](https://github.com/moyzlevi/job-incobar) project!<br>
  🌱 I’m currently learning Front-end(React.js) and Back-end(Node.js)<br>
  🖊️ Reach me on [LinkedIn](https://www.linkedin.com/in/moyses-pietsch-73b88b1a5/)<br>
  ⚡ Fun fact: I love to read! 📚
+</p>
 ## Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyzlevi&repo=job-incobar&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
