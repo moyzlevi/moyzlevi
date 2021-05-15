@@ -10,12 +10,11 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br><br><br>
 ```ruby
  🔭 I’m currently working on job-incobar project!
  🌱 I’m currently learning Front-end(React.js) and Back-end(Node.js)
- 🖊️ Reach me on [LinkedIn](https://www.linkedin.com/in/moyses-pietsch-73b88b1a5/)
  ⚡ Fun fact: I love to read! 📚
  ```
 
