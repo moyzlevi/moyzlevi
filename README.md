@@ -14,7 +14,7 @@
 <br><br><br>
 ```ruby
  🔭 I’m currently working on job-incobar project!
- 🌱 I’m currently learning Front-end(React.js) and Back-end(Node.js)
+ 🌱 I’m currently learning Front-end(Angular.js) and Back-end(Java)
  ⚡ Fun fact: I love to read! 📚
  ```
  <div display="flex" align="center" width="50">  
