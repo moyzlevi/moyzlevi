@@ -1,13 +1,14 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
-<h1 align="center">Hi! I'm Moyses!<br> Computer Science and Medicine🧬💻🚀</h1>
+<h1 align="center">Hi! I'm Moyses!<br> Computer Science💻🚀</h1>
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 <h2 align="center">Languages<h2>
 <div display="flex" width="50">    
-<img alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
