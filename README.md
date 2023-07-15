@@ -1,5 +1,5 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
-<h1 align="center">Hi! I'm Moyses!<br> Computer Science💻🚀</h1>
+<h1 align="center">Hi! I'm Moyses!<br> Backend developer!💻🚀</h1>
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 <h2 align="center">Languages<h2>
@@ -14,8 +14,8 @@
 
 <br><br><br>
 ```ruby
- 🔭 I’m currently working on job-incobar project!
- 🌱 I’m currently learning Front-end(Angular.js) and Back-end(Java)
+ 🔭 I’m currently working on golang studies!
+ 🌱 I’m currently learning Golang
  ⚡ Fun fact: I love to read! 📚
  ```
  <div display="flex" align="center" width="50">  
@@ -23,21 +23,15 @@
  <a href="https://www.linkedin.com/in/moyses-pietsch-73b88b1a5/">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </div>
-
-
-## Last-job:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyzlevi&repo=job-incobar&theme=nightowl)](https://github.com/moyzlevi/job-incobar)
-
+  
 ## Frameworks/technologies
 <div display="flex" width="50">    
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
@@ -46,6 +40,7 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 ## IDE
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 
