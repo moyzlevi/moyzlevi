@@ -23,6 +23,3 @@
  <a href="https://www.linkedin.com/in/moyses-pietsch-73b88b1a5/">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </div>
-
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-
