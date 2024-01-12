@@ -1,8 +1,8 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
-<h1 align="center">Hi! I'm Moyses!<br> Fullstack developer!💻🚀</h1>
+<h1 align="center">Olá! Me chamo Moyses!<br> Fullstack developer!💻🚀</h1>
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
-<h2 align="center">Languages<h2>
+<h2 align="center">Linguagens<h2>
 <div display="flex" width="50">    
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -14,17 +14,16 @@
 
 <br><br><br>
 ```ruby
- 🔭 I’m currently working on golang studies!
- 🌱 I’m currently learning Golang
- ⚡ Fun fact: I love to read! 📚
+ 🔭 Atualmente tenho estudado sobre arquiteturas de micosserviços e Angular
+ ⚡ Curiosidade sobre mim: adoro estudar coisas novas!
  ```
  <div display="flex" align="center" width="50">  
- <p>Reach me on linkedin:</p>
+ <p>Me contate no Linkedin:</p>
  <a href="https://www.linkedin.com/in/moyses-pietsch-73b88b1a5/">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </div>
   
-## Frameworks/technologies
+## Operacional Técnico
 <div display="flex" width="50">    
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -35,11 +34,11 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-## OS
+## Sistemas Operacionais
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-## IDE
+## IDEs
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
