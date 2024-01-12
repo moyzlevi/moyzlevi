@@ -1,5 +1,5 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=moyzlevi&count_private=true&show_icons=true&theme=nightowl" />
-<h1 align="center">Olá! Me chamo Moyses!<br> Sou um desenvolvedor Fullstack!💻🚀</h1>
+<h1 align="center">Olá! Me chamo Moyses!<br> Desenvolvedor Fullstack Java|Angular💻🚀</h1>
 <br>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyzlevi&layout=compact&theme=nightowl" />
 <h2 align="center">Linguagens<h2>
